@@ -1,4 +1,20 @@
-//Kinshuk Kumar
+/*Q: Write a solution for 4-Queen problem.
+Sample test case:
+
+Input: 4
+
+Output: 
+Initial State: 
+ 0 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+ 0 0 0 0
+Solution: 
+ 0 0 1 0
+ 1 0 0 0
+ 0 0 0 1
+ 0 1 0 0
+ */
 
 import java.io.*;
 class NQueenProblem
